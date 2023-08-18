@@ -4,7 +4,7 @@ import tkinter as tk
 
 def run():
     cuenta1 = 0
-    print('*'*10)
+    print('*'*11)
     print('BIENVENIDO AL BANCO DATANOVA'.title())
     print('*'*10)
     name = input('Cual es tu nombre => ')
